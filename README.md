@@ -14,3 +14,7 @@ composer install
 ## Veuillez créer et configurer la base de données en amont et ensuite exécutez les migrations
 
 php artisan migrate
+
+## Exécutez
+
+php artisan serve 
