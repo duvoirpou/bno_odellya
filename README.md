@@ -15,7 +15,7 @@ composer install
 
 php artisan migrate
 
-## Exécuter
+## Exécuter 
 
 php artisan storage:link
 
