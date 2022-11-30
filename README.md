@@ -15,6 +15,10 @@ composer install
 
 php artisan migrate
 
+## Exécuter
+
+php artisan storage:link
+
 ## Exécutez
 
 php artisan serve 
